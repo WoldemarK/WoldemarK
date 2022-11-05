@@ -3,8 +3,7 @@
 ### 👋 Hi, I'm Voldemar the java developer
   
 ### Connect with me:
-
-[linkedin]: https://www.linkedin.com/in/vladimir-kovtynov-48a9b176/
+[![Linkedin Badge](https://img.shields.io/badge/-WoldemarK-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-kovtynov-48a9b176/)
 
 ### Languages and Tools
 ![JetBrains](https://img.shields.io/badge/-JetBrains-5F9EA0?style=flat&logo=appveyor&logo=JetBrains)
