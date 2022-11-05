@@ -1,1 +1,1 @@
-### Hi there 👋  I am a beginner java programmer
+###Hi,👋 I'm Voldemar the java developer
