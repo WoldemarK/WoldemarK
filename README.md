@@ -11,3 +11,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-5F9EA0?style=flat&logo=appveyor=PostgreSQL)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyshpavda)](https://github.com/anuraghazra/github-readme-stats)
