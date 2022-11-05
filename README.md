@@ -14,5 +14,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-5F9EA0?style=flat&logo=appveyor&logo=Docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-5F9EA0?style=flat&logo=appveyor=PostgreSQL)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoldemarK)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WoldemarK)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoldemarK&layout=compact&layout=compact)
+
+
+
