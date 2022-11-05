@@ -4,7 +4,7 @@
   
 ### Connect with me:
 
-
+[linkedin]: https://www.linkedin.com/in/vladimir-kovtynov-48a9b176/
 
 ### Languages and Tools
 ![JetBrains](https://img.shields.io/badge/-JetBrains-5F9EA0?style=flat&logo=appveyor&logo=JetBrains)
@@ -16,4 +16,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-5F9EA0?style=flat&logo=appveyor=PostgreSQL)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoldemarK)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoldemarK&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoldemarK&layout=compact&layout=compact)
