@@ -1,6 +1,6 @@
 ![Header](https://github.com/WoldemarK/WoldemarK/blob/main/assets/header.png)
 
-### 👋 Hi, I'm Voldemar the java developer
+### 👋 Hi, I'm Woldemar the java developer
   
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-WoldemarK-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-kovtynov-48a9b176/)
