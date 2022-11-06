@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+world!)
 ![Header](https://github.com/WoldemarK/WoldemarK/blob/main/assets/header.png)
 
 ### 👋 Hi, I'm  java developer
