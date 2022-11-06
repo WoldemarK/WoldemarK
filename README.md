@@ -23,11 +23,14 @@
 </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=woldemark&show_icons=true&theme=dark&locale=en" alt="woldemark" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=woldemark&theme=dark" alt="woldemark" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=woldemark&show_icons=true&theme=dark&locale=en&layout=compact" alt="woldemark" /></p>
 
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=woldemark&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=woldemark&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=woldemark&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=woldemark&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=woldemark&theme=solarized_dark)
 
 
 
