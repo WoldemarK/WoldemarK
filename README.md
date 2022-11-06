@@ -26,10 +26,9 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=woldemark&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=woldemark&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=woldemark&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/-commit-language?username=woldemark&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=woldemark&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=woldemark&theme=solarized_dark)
+
 
 
 
