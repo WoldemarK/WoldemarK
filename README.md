@@ -1,4 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+world!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=if (сoffee.isPresent()){
+            System.out.println("Hello, world!");
+        }
+        System.out.println("Something didn't go according to plan");)
 ![Header](https://github.com/WoldemarK/WoldemarK/blob/main/assets/header.png)
 
 ### 👋 Hi, I'm  Java Software Engineer.
