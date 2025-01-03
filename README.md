@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+world!)
 ![Header](https://github.com/WoldemarK/WoldemarK/blob/main/assets/header.png)
 
-### 👋 Hi, I'm  java developer!
+### 👋 Hi, I'm  Java Software Engineer.
   
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-WoldemarK-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-kovtynov-48a9b176/)
